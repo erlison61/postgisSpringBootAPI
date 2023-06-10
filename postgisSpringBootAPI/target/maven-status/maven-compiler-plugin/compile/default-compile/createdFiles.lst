@@ -1,0 +1,17 @@
+br\com\example\model\Municipio.class
+br\com\example\controller\MesoRegiaoController.class
+br\com\example\repository\MunicipioRepository.class
+br\com\example\model\Estado.class
+br\com\example\model\EstadoVO.class
+br\com\example\repository\MesoRegiaoRepository.class
+br\com\example\model\MunicipioVO.class
+br\com\example\model\MicroRegiao.class
+br\com\example\model\MesoRegiaoVO.class
+br\com\example\model\MicroRegiaoVO.class
+br\com\example\controller\MicroRegiaoController.class
+br\com\example\repository\MicroRegiaoRepository.class
+br\com\example\model\MesoRegiao.class
+br\com\example\controller\EstadoController.class
+br\com\example\repository\EstadoRepository.class
+br\com\example\MeuProjetoApplication.class
+br\com\example\controller\MunicipioController.class
